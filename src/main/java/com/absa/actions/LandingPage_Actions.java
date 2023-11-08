@@ -22,8 +22,8 @@ public class LandingPage_Actions {
         landingPage_locators.ADD_USER_BUTTON.click();
     }
 
-    public void verifyUserExists(String firstName, String lastName, String userName, String passWord, String customer, String role, String email, String cell) {
-        landingPage_locators.SEARCH_USER_BUTTON.sendKeys(firstName);
+    public void verifyUserExists(String userName) {
+        landingPage_locators.SEARCH_USER_BUTTON.sendKeys(userName);
         Assert.assertEquals(landingPage_locators.USENAME_VALUE.getText(),userName);
     }
 }
