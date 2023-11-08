@@ -1,0 +1,22 @@
+[
+  {
+  "firstName": "Sophy",
+  "lastName": "Ndaba",
+  "userName": "SNdaba001",
+  "passWord": "nd@Spy13",
+  "customer": "Company AAA",
+  "role": "Admin",
+  "email": "Sophy.Andabaymail.ca",
+  "cell": "27831127767"
+  },
+  {
+    "firstName": "Phil",
+    "lastName": "Mugabe",
+    "userName": "mugphil",
+    "passWord": "mugabe@webmail",
+    "customer": "Company BBB",
+    "role": "Customer",
+    "email": "pr.mugabe@webmail.co.za",
+    "cell": "27735679512"
+  }
+]
